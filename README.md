@@ -10,7 +10,7 @@
   <a href="mailto:yunhsuan0907@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-f39c12?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="你的LinkedIn連結">
+  <a href="https://www.linkedin.com/in/iris-huang-yun-hsuan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
