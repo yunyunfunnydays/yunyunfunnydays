@@ -4,7 +4,7 @@
   ### Full Stack Engineer | Java & Next.js Specialist
   
   <p>
-    <b>4 年實務經驗</b> • <b>獨立全端開發者</b> • <b>AI 應用探索者</b>
+    <b>4+ Years Exp.</b> • <b>Solo Full-Stack Developer</b> • <b>AI Enthusiast</b>
   </p>
   
   <a href="mailto:yunhsuan0907@gmail.com">
@@ -19,11 +19,12 @@
 
 ## 👩‍💻 About Me (關於我)
 
-我是 Iris，一名擁有 **4 年經驗** 的全端工程師。
-我擅長構建高穩定性的後端系統 (Spring Boot) 與高效能的現代化前端 (Next.js)。目前作為全端開發者，專注於協助客戶進行數位轉型，並積極研究 AI 技術的實際落地應用。
+I'm **Iris**, a Full Stack Engineer with **4 years of experience**. I specialize in building stable backend systems with **Spring Boot** and high-performance modern frontends using **Next.js**. Currently, as a solo developer, I focus on helping clients achieve digital transformation and actively exploring practical applications of **AI Engineering**.
 
-* 🌱 **I’m currently learning:** system design, AI application
-* 💼 **I’m open to:** AI product Engineer / Full Stack Engineer / Full-time Backend roles
+我是 Iris，一名擁有 **4 年經驗** 的全端工程師。我擅長構建高穩定性的後端系統 (Spring Boot) 與高效能的現代化前端 (Next.js)。目前作為獨立全端開發者，專注於協助客戶進行數位轉型，並積極研究 AI 技術的實際落地應用。
+
+* 🌱 **I’m currently learning:** System Design, AI Agents & RAG Architecture
+* 💼 **I’m open to:** AI Product Engineer / Full Stack Engineer / Backend Roles
 
 ---
 
@@ -70,6 +71,8 @@
 > **Role:** Solo Full-Stack Developer | **Status:** Production
 > *A high-performance Headless CMS solution creating a "Content-as-Database" architecture.*
 
+Leveraged Next.js with Notion API to build an innovative "Content-as-Database" architecture. This solution significantly lowered the maintenance barrier for non-tech staff while achieving ultimate SEO performance.
+
 運用 Next.js 整合 Notion API，為客戶打造「內容即資料庫」的創新架構。大幅降低非技術人員的維護門檻，並實現極致的 SEO 效能。
 
 * **Architecture:** Next.js (App Router) + Notion API (Headless CMS)
@@ -77,14 +80,14 @@
 * **Business Impact:** Reduced client maintenance communication costs by **80%**.
 * **Tech Highlights:** `TypeScript`, `Tailwind CSS`, `SWR`, `Framer Motion`
 
-⚠️ *Due to NDA, source code is private. View the technical showcase below:*
-👉 **[View Technical Demo](https://my-doctor-website-k7tr.vercel.app/)**
+⚠️ *Due to NDA, source code is private. You can view the live demo below:*
+👉 **[View Technical Demo (Live Site)](https://my-doctor-website-k7tr.vercel.app/)**
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的Github帳號&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github帳號&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yunyunfunnydays&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfunnydays&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
