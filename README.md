@@ -14,6 +14,38 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E76F51&height=200&section=header&text=Hi%20there,%20I'm%20Iris&fontSize=70&fontColor=ffffff" alt="Header" />
+  
+  ### Full Stack Engineer | Java & Next.js Specialist
+  
+  <p>
+    <b>4+ Years Exp.</b> • <b>Solo Full-Stack Developer</b> • <b>AI Enthusiast</b>
+  </p>
+  
+  <a href="mailto:yunhsuan0907@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-f39c12?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iris-huang-yun-hsuan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Hi%20there,%20I'm%20Iris&fontSize=70&fontColor=ffffff" alt="Header" />
+  
+  ### Full Stack Engineer | Java & Next.js Specialist
+  
+  <p>
+    <b>4+ Years Exp.</b> • <b>Solo Full-Stack Developer</b> • <b>AI Enthusiast</b>
+  </p>
+  
+  <a href="mailto:yunhsuan0907@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-f39c12?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/iris-huang-yun-hsuan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 <br />
 
