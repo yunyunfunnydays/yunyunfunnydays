@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Hi%20there,%20I'm%20Iris&fontSize=70&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2A9D8F&height=200&section=header&text=Hi%20there,%20I'm%20Iris&fontSize=70&fontColor=ffffff" alt="Header" />
   
   ### Full Stack Engineer | Java & Next.js Specialist
   
