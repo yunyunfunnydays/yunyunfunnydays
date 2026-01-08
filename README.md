@@ -87,7 +87,10 @@ Leveraged Next.js with Notion API to build an innovative "Content-as-Database" a
 
 ## 📈 GitHub Stats
 
-<div align="center">
+## 📈 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yunyunfunnydays&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfunnydays&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+</p>
