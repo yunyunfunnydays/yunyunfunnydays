@@ -83,12 +83,3 @@ Leveraged Next.js with Notion API to build an innovative "Content-as-Database" a
 ⚠️ *Due to NDA, source code is private. You can view the live demo below:*
 👉 **[View Technical Demo (Live Site)](https://my-doctor-website-k7tr.vercel.app/)**
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunyunfunnydays&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunyunfunnydays&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
